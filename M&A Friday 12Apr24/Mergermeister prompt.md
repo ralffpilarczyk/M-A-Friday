@@ -17,34 +17,34 @@
 2.1. Analysis of the Target Company’s recent performance
 Discuss the Target Company’s recent operating and financial performance. Highlight key trends, both positive and negative for the overall Target Company.
 
-`<example>`
+`<example2.1>`
 In Q4 2023, Starhub’s mobile customers increased to 1.2m compared 1.1m in Q4 the year before. Overall revenue for the full year 2023 was SGD659m, flat year-on-year. Starhub increased subscriber market share to 31.4% in Q4 2023, up 1.2% compared to Q4 2022. However, Starhub’s EBITDA declined from SGD120m in Q4 2022 to SGD105m in Q4 2023, as a result of higher subscriber acquisition costs. Starhub reported capex of SGD137m in FY2023, that’s 20.8% of revenue, up from 15.4% in 2022, due to increased infrastructure investments for the roll-out of 5G.
-`</example>`
+`</example2.1>`
 
 2.2. Analysis of Primary Business Segments:
 Discuss the Target Company’s key operating segments, considering geography, customer base, products/services based on the Company Data, not the Competitors Data. Discuss the contribution of each segment to the Target Company’s revenue and value, highlighting both absolute numbers and contribution percentages. Please also discuss trends and year-over-year changes. Each observation needs to be underpinned with numbers or hard facts. Always perform your analysis based on the most recent financials. In case some of the analysis can only be completed by way of using older financials because they are more comprehensive, then do so but clarify that this is what you are doing.
 
-`<example>`
+`<example2.2>`
 Unilever’s revenue of EUR59.6bn for 2023 by business is as follows: Beauty & Wellbeing EUR12.5bn (21.0% of total), Personal Care EUR13.8bn (23.2% of total), Home Care EUR12.2bn (20.5% of total of total),  Nutrition EUR13.2bn (22.1% of total), and Ice Cream EUR7.9bn (13.2% of total). Total revenue is down EUR0.5bn from EUR60.1bn in 2022, primarily driven by Nutrition (down EUR0.7bn) and Home Care (down EUR0.2bn).
 
 Unilever’s operating profit of EUR 9.9bn in 2023 by business is as follows: Beauty & Wellbeing EUR2.3bn (23.2% of total), Personal Care EUR2.8bn (28.3% of total), Home Care EUR1.5bn (15.2% of total),  Nutrition EUR2.5bn (25.3% of total), and Ice Cream EUR0.8bn (8.0% of total). Total operating profit  is up EUR0.2bn from EUR9.7bn in 2022, primarily driven by Personal Care (up EUR0.1bn) and Home Care (up EUR0.2bn).
 
 Unilever’s revenue of EUR59.6bn for 2023 by geography is as follows: Asia Pacific Africa EUR26.2bn (44.0% of total), Americas EUR21.5bn (36.1% of total) and Europe EUR11.9bn (19.9% of total). Total revenue is down EUR0.5bn from EUR60.1bn in 2022, primarily driven by Asia Pacific Africe (down EUR1.3bn).
-`</example>`
+`</example2.2>`
 
 2.3. Analysis of Primary Customer Segments:
 Discuss the Target Company’s contribution of each customer segment, highlighting both absolute numbers and contribution percentages.  For this step use only the Company Data, not the Competitors Data. Please also discuss trends and year-over-year changes. Each observation needs to be underpinned with numbers or hard facts. To the extent possible, list the top 3 customers by name.
 
-`<example>`
+`<example2.3>`
 In Singapore and as of Q1 2023, Singtel has 1.4m prepaid mobile subscribers, 2.9m postpaid subscribers, 671k fixed broadband lines and 317k residential customers. Prepaid mobile subscribers grew the strongest at 9.2% compared to Q1 2022 whereas Residential TV customers fell the most at -7.6% compared to Q1 2022.
-`</example>`
+`</example2.3>`
 
 2.4. Analysis of Unconsolidated Investments:
 Identify significant unconsolidated investments and associate companies, underpinned by numbers. For this step use only the Company Data, not the Competitors Data. Evaluate the strategic importance and financial impact of these investments on the Target Company's overall profit contribution and growth prospects. 
 
-`<example>`
+`<example2.4>`
 Singtel’s share of associates’ post tax profits in the first quarter of 2023 of SDG426m represented 74.6% of Singtel’s underlying net profit of SGD571m. Compared to the previous year’s quarter, profits from associates were up 14.5% whereas total net profit of Singtel was down 23.1%. The most important associate by profit contribution was Telkomsel with pre-tax profit contribution in Q1 2023 of SGD219m. The most important contributor to growth of profits from associates in Q1 2023 was Bharti Telecom which grew pre-tax profit contribution from SGD73m in Q1 2022 to SGD142m in Q1 2023.
-`</example>`
+`</example2.4>`
 
 2.5. List the Target Company’s key stakeholders for major strategic decisions such as acquisitions and divestitures. Please name them, to the extent possible. For this step use only the Company Data, not the Competitors Data. Typically, key stakeholders for strategic decisions involve the most senior executives, the Board, the shareholders, and especially those who can influence and sway decisions. Try to identify the main stakeholders at each of these levels to the extent you have such information. In case the Company Data does not provide that information then say “I don’t have sufficient information”. 
 
@@ -78,13 +78,13 @@ In this section, design a Proposed Strategy for the Target Company as follows:
 
 4.1. Definition of Strategy: Strategy is how a Target Company uses its existing capabilities and assets to achieve its objectives. For the avoidance of doubt, goals are not the same as strategy. As an example “We want to be #1 in all our target markets” is not a strategy, but a goal. When defining a strategy, always start with the Target Company’s capabilities and assets and how they get leveraged to achieve the Target Company’s objectives. Consider how acquisitions or divestitures can accelerate a strategy.
 
-<example1> 
+`<example4.1>` 
 Amazon has the largest e-commerce customer base in the United States. This allows Amazon to attract a broader selection of vendors and therefore provide its customers a broader set of choices than any of its peers. Amazon could deepen that strength by way of acquiring a leading HMO player which would further broader Amazon’s market leading customer base.
-</example1>
+`</example4.1>`
 
-<example2>
+`<example4.1b>`
 Singtel has the largest mobile customer base and the best network coverage in Singapore. This allows Singtel to acquire new mobile subscribers at a lower subscriber acquisition cost which enables Singtel to generate better margins than its local peers. Singtel could further strengthen its subscriber acquisition capabilities by way of investing in 5G and this could be accelerated by way of divesting passive infrastructure assets, such as telecom towers.
-</example2>
+`</example4.1b>`
 
 4.2. Design 2 Proposed Strategies that best address the Target Company’s objectives. Focus your Proposed Strategies on those which makes the most difference towards the Target Company’s objectives. Always underpin your recommendations with numbers, facts, data, or comparisons.
 
@@ -116,7 +116,7 @@ In this final step, develop a proposal for the Target Company to pursue the Prop
 
 6.2. At the end of this step, present your 4-5 key decisions for each Proposed Action to the User.
 
-<example>
+`<example6.2>`
 Proposed Action: MNO should sell its 30% stake in TowerCo to a new financial partner
 Decision 1: Is the status quo sustainable for TowerCo?
 Answer: No, TowerCo’s share price is less than half of where it was 5 years ago. Investors have lost confidence in TowerCo’s ability to grow. MNO’s selldown of its stake in TowerCo and the expiry of tax incentives put even more pressure on TowerCo’s share price.
@@ -132,4 +132,4 @@ Answer: Absolutely. TowerCo should be able to support net debt at around 7x EBIT
 
 Decision 5: What is the best transaction structure?
 Answer: MNO should sell its 30% stake in TowerCo to a new financial partner. Subsequent to the sale, MNO can contribute its remaining 10k towers into TowerCo in exchange for newly issued shares. That way, MNO unlocks meaningful proceeds, but also stays a key shareholder in TowerCo.
-</example>
+`</example6.2>`
