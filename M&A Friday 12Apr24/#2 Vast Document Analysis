@@ -1,0 +1,14 @@
+EXAMPLE 1
+
+[Upload Wind Energy Holdings Court Filing]
+[Then, prompt as follows]
+
+Review the attached legal filing and map out the exact steps that led to the lese majeste ruling.
+
+
+EXAMPLE 2
+
+[Upload 2 annual reports from 2 competitors]
+[Then, prompt as follows]
+
+I am a senior M&A banker trying to understand the competitive landscape of the 2 companies that I have provided you files for. First, compare and contrast both companies in table format, the columns being the 2 companies, the rows covering business segments, key geographies, operating metrics and KPIs as well as financial metrics such as revenue, revenue growth, EBITDA and margins (absent EBITDA use Operating Profit). Secondly, compare and contrast realtive strengths and weaknesses vis-a-vis each other. Then, compare and contrast both companies' strategy and highlight key areas of difference. 
