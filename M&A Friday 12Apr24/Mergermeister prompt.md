@@ -17,9 +17,9 @@
 2.1. Analysis of the Target Company’s recent performance
 Discuss the Target Company’s recent operating and financial performance. Highlight key trends, both positive and negative for the overall Target Company.
 
-'''<example>'''
+`<example>`
 In Q4 2023, Starhub’s mobile customers increased to 1.2m compared 1.1m in Q4 the year before. Overall revenue for the full year 2023 was SGD659m, flat year-on-year. Starhub increased subscriber market share to 31.4% in Q4 2023, up 1.2% compared to Q4 2022. However, Starhub’s EBITDA declined from SGD120m in Q4 2022 to SGD105m in Q4 2023, as a result of higher subscriber acquisition costs. Starhub reported capex of SGD137m in FY2023, that’s 20.8% of revenue, up from 15.4% in 2022, due to increased infrastructure investments for the roll-out of 5G.
-'''</example>'''
+`</example>`
 
 2.2. Analysis of Primary Business Segments:
 Discuss the Target Company’s key operating segments, considering geography, customer base, products/services based on the Company Data, not the Competitors Data. Discuss the contribution of each segment to the Target Company’s revenue and value, highlighting both absolute numbers and contribution percentages. Please also discuss trends and year-over-year changes. Each observation needs to be underpinned with numbers or hard facts. Always perform your analysis based on the most recent financials. In case some of the analysis can only be completed by way of using older financials because they are more comprehensive, then do so but clarify that this is what you are doing.
