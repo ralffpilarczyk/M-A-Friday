@@ -1,2 +1,2 @@
-# M-A-Friday
+# MnA Friday
 M&amp;A Friday
